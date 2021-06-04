@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DurableFunctions.TypedInter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DurableFunctions.TypedInterfaces.Example", "example\DurableFunctions.TypedInterfaces.Example.csproj", "{42260ABC-79BC-49B3-B109-2D3B81DD78D6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DurableFunctions.TypedInterfaces", "sourcegenerator\DurableFunctions.TypedInterfaces.csproj", "{180EAC86-A311-4A6D-BD65-1F3FC892B645}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{42260ABC-79BC-49B3-B109-2D3B81DD78D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42260ABC-79BC-49B3-B109-2D3B81DD78D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42260ABC-79BC-49B3-B109-2D3B81DD78D6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{180EAC86-A311-4A6D-BD65-1F3FC892B645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{180EAC86-A311-4A6D-BD65-1F3FC892B645}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{180EAC86-A311-4A6D-BD65-1F3FC892B645}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{180EAC86-A311-4A6D-BD65-1F3FC892B645}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
